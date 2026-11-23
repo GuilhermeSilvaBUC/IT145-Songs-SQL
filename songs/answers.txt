@@ -1,0 +1,7 @@
+For this assignment, I learned how to use SQL to retrieve and organize information from a music database. I used SELECT to display song names, ORDER BY to sort songs, and WHERE to filter results based on specific conditions. I also practiced using AVG to calculate average energy and LIMIT to control the number of results.
+
+The most interesting part was working with two related tables. For questions 6 and 7, I used JOIN to connect songs with artists through the artist_id and id columns. This allowed me to find songs by Post Malone and calculate the average energy of Drake's songs.
+
+For question 8, I used LIKE '%feat.%' to find songs containing "feat." in their titles. This question did not require a JOIN because the information was already stored in the songs table. Another approach could use a JOIN to include artist information, but it would not be necessary to find the song titles.
+
+Overall, this assignment helped me understand how SQL can search, filter, and combine information efficiently without having to manually examine every record.
